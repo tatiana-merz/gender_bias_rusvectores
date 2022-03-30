@@ -1,0 +1,11 @@
+career,family
+работать_VERB,сын_NOUN
+работа_NOUN,дочь_NOUN
+руководить_VERB,дом_NOUN
+менеджмент_NOUN,родитель_NOUN
+профессионал_NOUN,ребенок_NOUN
+корпорация_NOUN,семья_NOUN
+зарплата_NOUN,родня_NOUN
+офис_NOUN,брак_NOUN
+бизнес_NOUN,свадьба_NOUN
+карьера_NOUN,родственник_NOUN
